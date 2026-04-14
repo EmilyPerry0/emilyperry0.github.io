@@ -1,0 +1,10 @@
+Goals:
+
+- replace the boring white background with something better on the homepage.
+- make the homepage a bit more interesting.
+- shift the whole thing towards more of a dark mode experience, with darker colors too.
+- fill in master thesis page.
+- fill in about me page.
+- fill in personal interests page.
+- add my cv.
+- add pages about past projects, perhaps.
