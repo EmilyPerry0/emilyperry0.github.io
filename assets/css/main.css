@@ -3327,3 +3327,13 @@ input, select, textarea {
 			}
 
 		}
+/* My custom additions */
+.fake-link {
+    color: #585858;
+    border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
+    cursor: help;
+}
+.fake-link:hover {
+    border-bottom-color: transparent;
+    color: #f2849e;
+}
